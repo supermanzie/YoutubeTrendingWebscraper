@@ -1,1 +1,2 @@
 # YoutubeTrendingWebscraper
+Requires selenium library
